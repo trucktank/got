@@ -54,7 +54,7 @@
 		"p-cancelable": "^2.0.0",
 		"responselike": "^2.0.0",
 		"to-readable-stream": "^2.0.0",
-		"type-fest": "^0.8.0"
+		"type-fest": "^0.21.3"
 	},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^0.7.0",
